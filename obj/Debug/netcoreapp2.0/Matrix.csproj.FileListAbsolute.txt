@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\bin\Debug\netcoreapp2.0\Matrix.deps.json
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\bin\Debug\netcoreapp2.0\Matrix.runtimeconfig.json
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\bin\Debug\netcoreapp2.0\Matrix.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\bin\Debug\netcoreapp2.0\Matrix.dll
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\bin\Debug\netcoreapp2.0\Matrix.pdb
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\obj\Debug\netcoreapp2.0\Matrix.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\obj\Debug\netcoreapp2.0\Matrix.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\obj\Debug\netcoreapp2.0\Matrix.AssemblyInfo.cs
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\obj\Debug\netcoreapp2.0\Matrix.dll
+c:\Users\FIC\Desktop\BackA\Week_3\Matrix\obj\Debug\netcoreapp2.0\Matrix.pdb
