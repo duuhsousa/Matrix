@@ -21,10 +21,14 @@ namespace Matrix
             do{
                 Console.Write("É a vez do X!\nDigite a posição Desejada...\n");
                 do{
-                    Console.Write("Linha: ");
-                    i=int.Parse(Console.ReadLine());
-                    Console.Write("Coluna: ");
-                    j=int.Parse(Console.ReadLine()); 
+                    do{
+                        Console.Write("Linha: ");
+                        i=int.Parse(Console.ReadLine());
+                    }while(i!=1 && i!=2 && i!=-0);
+                    do{
+                        Console.Write("Coluna: ");
+                        j=int.Parse(Console.ReadLine());
+                    }while(j!=1 && j!=2 && j!=0); 
                 }while(Velha[i,j]=="X" || Velha[i,j]=="O");
                 Velha[i,j]="X";
                 cont++;
@@ -40,10 +44,14 @@ namespace Matrix
                 {
                     Console.Write("É a vez do O!\nDigite a posição Desejada...\n");
                     do{
-                        Console.Write("Linha: ");
-                        i=int.Parse(Console.ReadLine());
-                        Console.Write("Coluna: ");
-                        j=int.Parse(Console.ReadLine());
+                        do{
+                            Console.Write("Linha: ");
+                            i=int.Parse(Console.ReadLine());
+                        }while(i!=1 && i!=2 && i!=-0);
+                        do{
+                            Console.Write("Coluna: ");
+                            j=int.Parse(Console.ReadLine());
+                        }while(j!=1 && j!=2 && j!=0); 
                     }while(Velha[i,j]=="X" || Velha[i,j]=="O");
                     Velha[i,j]="O";
                     cont++;
